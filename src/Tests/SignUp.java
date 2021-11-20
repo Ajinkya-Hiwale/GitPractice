@@ -6,6 +6,7 @@ public class SignUp {
 		System.out.println("New page added");
 		
 		//adding comment
+		//second comment
 	}
 
 }
